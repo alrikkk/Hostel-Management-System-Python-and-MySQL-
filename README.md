@@ -1,5 +1,5 @@
 # Hostel-Management-System-Python-and-MySQL-
-A small project i built during my 12 grade when i started learning python . i have managed to use MySQL for the database connectivity along side python.
+A small project i built during my school days when i started learning python . i have managed to use MySQL for the database connectivity along side python.
 
 These are the screenshots for proof of work.
 
